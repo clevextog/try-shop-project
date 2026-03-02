@@ -1,0 +1,11 @@
+# Go build files
+bin/
+*.exe
+*.test
+*.out
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
